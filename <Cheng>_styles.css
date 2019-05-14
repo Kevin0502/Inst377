@@ -1,0 +1,23 @@
+body {background-color: brown; color: white}
+h1 {color: white}
+
+#outsideDiv{
+  width: 60%;
+}
+
+
+#secondDiv {
+  font-family: sans-serif;font-style: oblique;
+  word-spacing: 3px ; text-shadow: 3px 2px grey;
+  font-size: 16px ; text-align: center ; list-style-position: inside;
+  columns: 50px 3
+}
+
+.article {
+  text-align: center;
+}
+
+.picture {
+  width: 100%;
+  height: auto;
+}
